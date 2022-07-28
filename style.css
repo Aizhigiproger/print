@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+
+
+}
+header{
+    background-color: blue;
+
+}
+h1{
+    color: coral;
+}
+footer{
+    background-color: blue;
+}
+nav{
+    background-color: cornflowerblue;
+    border-radius: 20px;
+    margin: 20px;
+}
